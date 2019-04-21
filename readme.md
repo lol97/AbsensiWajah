@@ -9,3 +9,6 @@ Dalam pengerjaan projek ini bahasa pemrograman yang digunakan adalah Python 3
 Program ini bergantung ke beberapa library bawaan python 3 diantaranya :
 * Tkinter
 * Numpy
+
+## License
+Absensi Wajah is a free and open-source software under [MIT License](LICENSE).
